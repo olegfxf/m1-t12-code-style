@@ -39,3 +39,5 @@ public class DepositCalculator {
         new DepositCalculator().incomeCalculation();
     }
 }
+//В строке 4 метода "calculateComplexPercen()" лучше дать "говорящие" имена параметрам вместо a, y и b. 
+//В строках 9, 10 предпочтительно заменить имена переменных вида doubleAmount на  аmount. Тип переменной указывать в названии нежелательно.
